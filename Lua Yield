@@ -809,7 +809,7 @@ Toggles.BackgroundTransparency = 1
 Toggles.BorderSizePixel = 0
 Toggles.Position = UDim2.new(0, 150, 0, 50)
 Toggles.Size = UDim2.new(0, 200, 0, 125)
-Toggles.ScrollBarImageColor3 = Color3.fromRGB(78,78,79)
+Toggles.ScrollBarImageColor3 = Color3.fromRGB(128, 187, 219)
 Toggles.BottomImage = "rbxasset://textures/ui/Scroll/scroll-middle.png"
 Toggles.CanvasSize = UDim2.new(0, 0, 0, 270)
 Toggles.MidImage = "rbxasset://textures/ui/Scroll/scroll-middle.png"
@@ -821,7 +821,7 @@ table.insert(scroll,Toggles)
 
 Fly.Name = "Fly"
 Fly.Parent = Toggles
-Fly.BackgroundColor3 = Color3.fromRGB(46, 46, 47)
+Fly.BackgroundColor3 = Color3.fromRGB(128, 187, 219)
 Fly.BorderSizePixel = 0
 Fly.Size = UDim2.new(0, 192, 0, 20)
 Fly.Font = Enum.Font.SourceSans
@@ -835,7 +835,7 @@ table.insert(text1,Fly)
 
 Select_3.Name = "Select"
 Select_3.Parent = Fly
-Select_3.BackgroundColor3 = Color3.fromRGB(78, 78, 79)
+Select_3.BackgroundColor3 = Color3.fromRGB(128, 187, 219)
 Select_3.BorderSizePixel = 0
 Select_3.Position = UDim2.new(0, 152, 0, 0)
 Select_3.Size = UDim2.new(0, 40, 0, 20)
@@ -849,7 +849,7 @@ table.insert(text2,Select_3)
 
 shadow_2.Name = "shadow"
 shadow_2.Parent = KeybindEditor
-shadow_2.BackgroundColor3 = Color3.fromRGB(46, 46, 47)
+shadow_2.BackgroundColor3 = Color3.fromRGB(128, 187, 219)
 shadow_2.BorderSizePixel = 0
 shadow_2.Size = UDim2.new(0, 360, 0, 20)
 shadow_2.ZIndex = 10
@@ -867,7 +867,7 @@ PopupText_2.TextColor3 = Color3.new(1, 1, 1)
 PopupText_2.TextWrapped = true
 table.insert(text1,PopupText_2)
 
-Exit_2.Name = "Exit"
+Exit_2.Name = "Lost Command :D"
 Exit_2.Parent = shadow_2
 Exit_2.BackgroundTransparency = 1
 Exit_2.Position = UDim2.new(1, -20, 0, 0)
@@ -886,7 +886,7 @@ ExitImage_2.ZIndex = 10
 PositionsFrame.Name = "PositionsFrame"
 PositionsFrame.Parent = Settings
 PositionsFrame.Active = true
-PositionsFrame.BackgroundColor3 = Color3.fromRGB(36, 36, 37)
+PositionsFrame.BackgroundColor3 = Color3.fromRGB(128, 187, 219)
 PositionsFrame.BorderSizePixel = 0
 PositionsFrame.Size = UDim2.new(0, 250, 0, 175)
 PositionsFrame.Position = UDim2.new(0, 0, 0, 175)
@@ -895,7 +895,7 @@ table.insert(shade1,PositionsFrame)
 
 Close_3.Name = "Close"
 Close_3.Parent = PositionsFrame
-Close_3.BackgroundColor3 = Color3.fromRGB(46, 46, 47)
+Close_3.BackgroundColor3 = Color3.fromRGB(128, 187, 219)
 Close_3.BorderSizePixel = 0
 Close_3.Position = UDim2.new(0, 205, 0, 150)
 Close_3.Size = UDim2.new(0, 40, 0, 20)
@@ -909,7 +909,7 @@ table.insert(text1,Close_3)
 
 Delete_5.Name = "Delete"
 Delete_5.Parent = PositionsFrame
-Delete_5.BackgroundColor3 = Color3.fromRGB(46, 46, 47)
+Delete_5.BackgroundColor3 = Color3.fromRGB(128, 187, 219)
 Delete_5.BorderSizePixel = 0
 Delete_5.Position = UDim2.new(0, 50, 0, 150)
 Delete_5.Size = UDim2.new(0, 40, 0, 20)
@@ -923,7 +923,7 @@ table.insert(text1,Delete_5)
 
 Part.Name = "PartGoto"
 Part.Parent = PositionsFrame
-Part.BackgroundColor3 = Color3.fromRGB(46, 46, 47)
+Part.BackgroundColor3 = Color3.fromRGB(128, 187, 219)
 Part.BorderSizePixel = 0
 Part.Position = UDim2.new(0, 5, 0, 150)
 Part.Size = UDim2.new(0, 40, 0, 20)
@@ -942,7 +942,7 @@ Holder_4.BorderSizePixel = 0
 Holder_4.Position = UDim2.new(0, 0, 0, 0)
 Holder_4.Selectable = false
 Holder_4.Size = UDim2.new(0, 250, 0, 145)
-Holder_4.ScrollBarImageColor3 = Color3.fromRGB(78,78,79)
+Holder_4.ScrollBarImageColor3 = Color3.fromRGB(128, 187, 219)
 Holder_4.BottomImage = "rbxasset://textures/ui/Scroll/scroll-middle.png"
 Holder_4.CanvasSize = UDim2.new(0, 0, 0, 0)
 Holder_4.MidImage = "rbxasset://textures/ui/Scroll/scroll-middle.png"
@@ -953,7 +953,7 @@ Holder_4.ZIndex = 10
 
 Example_4.Name = "Example"
 Example_4.Parent = PositionsFrame
-Example_4.BackgroundColor3 = Color3.fromRGB(46, 46, 47)
+Example_4.BackgroundColor3 = Color3.fromRGB(128, 187, 219)
 Example_4.BorderSizePixel = 0
 Example_4.Size = UDim2.new(0, 10, 0, 20)
 Example_4.Visible = false
@@ -963,7 +963,7 @@ table.insert(shade2,Example_4)
 
 Text_5.Name = "Text"
 Text_5.Parent = Example_4
-Text_5.BackgroundColor3 = Color3.fromRGB(46, 46, 47)
+Text_5.BackgroundColor3 = Color3.fromRGB(128, 187, 219)
 Text_5.BorderSizePixel = 0
 Text_5.Position = UDim2.new(0, 10, 0, 0)
 Text_5.Size = UDim2.new(0, 240, 0, 20)
@@ -978,7 +978,7 @@ table.insert(text1,Text_5)
 
 Delete_6.Name = "Delete"
 Delete_6.Parent = Text_5
-Delete_6.BackgroundColor3 = Color3.fromRGB(78, 78, 79)
+Delete_6.BackgroundColor3 = Color3.fromRGB(128, 187, 219)
 Delete_6.BorderSizePixel = 0
 Delete_6.Position = UDim2.new(0, 200, 0, 0)
 Delete_6.Size = UDim2.new(0, 40, 0, 20)
@@ -992,7 +992,7 @@ table.insert(text2,Delete_6)
 
 TP.Name = "TP"
 TP.Parent = Text_5
-TP.BackgroundColor3 = Color3.fromRGB(78, 78, 79)
+TP.BackgroundColor3 = Color3.fromRGB(128, 187, 219)
 TP.BorderSizePixel = 0
 TP.Position = UDim2.new(0, 155, 0, 0)
 TP.Size = UDim2.new(0, 40, 0, 20)
@@ -1007,7 +1007,7 @@ table.insert(text2,TP)
 AliasesFrame.Name = "AliasesFrame"
 AliasesFrame.Parent = Settings
 AliasesFrame.Active = true
-AliasesFrame.BackgroundColor3 = Color3.fromRGB(36, 36, 37)
+AliasesFrame.BackgroundColor3 = Color3.fromRGB(128, 187, 219)
 AliasesFrame.BorderSizePixel = 0
 AliasesFrame.Position = UDim2.new(0, 0, 0, 175)
 AliasesFrame.Size = UDim2.new(0, 250, 0, 175)
@@ -1030,7 +1030,7 @@ table.insert(text1,Close_2)
 
 Delete_3.Name = "Delete"
 Delete_3.Parent = AliasesFrame
-Delete_3.BackgroundColor3 = Color3.fromRGB(46, 46, 47)
+Delete_3.BackgroundColor3 = Color3.fromRGB(128, 187, 219)
 Delete_3.BorderSizePixel = 0
 Delete_3.Position = UDim2.new(0, 5, 0, 150)
 Delete_3.Size = UDim2.new(0, 40, 0, 20)
@@ -1048,7 +1048,7 @@ Holder_3.BackgroundTransparency = 1
 Holder_3.BorderSizePixel = 0
 Holder_3.Position = UDim2.new(0, 0, 0, 0)
 Holder_3.Size = UDim2.new(0, 250, 0, 145)
-Holder_3.ScrollBarImageColor3 = Color3.fromRGB(78,78,79)
+Holder_3.ScrollBarImageColor3 = Color3.fromRGB(128, 187, 219)
 Holder_3.BottomImage = "rbxasset://textures/ui/Scroll/scroll-middle.png"
 Holder_3.CanvasSize = UDim2.new(0, 0, 0, 0)
 Holder_3.MidImage = "rbxasset://textures/ui/Scroll/scroll-middle.png"
