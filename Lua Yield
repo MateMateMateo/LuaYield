@@ -4156,7 +4156,7 @@ CMDs[#CMDs + 1] = {NAME = 'screenshot / scrnshot', DESC = 'Takes a screenshot'}
 CMDs[#CMDs + 1] = {NAME = 'togglefullscreen / togglefs', DESC = 'Toggles fullscreen'}
 CMDs[#CMDs + 1] = {NAME = 'notify [text]', DESC = 'Sends you a notification with the provided text'}
 CMDs[#CMDs + 1] = {NAME = 'lastcommand / lastcmd', DESC = 'Executes the previous command used'}
-CMDs[#CMDs + 1] = {NAME = 'Lost Command :D', DESC = 'Kills roblox process'}
+CMDs[#CMDs + 1] = {NAME = 'Lost Command :D', DESC = 'D̶̞̩͊̾̄͋ ̸̧̛̛͓͙͕͓̒͐̔̏͗͂E̷̙̳̗͚͖͛͌̆̓̈̐̾̀͐ ̶͖͈́̂̾̊͂N̴̪̫̤̟̱̍́̿̅̎̔́͆͌͠ ̴̬̩̜͓͉̏͛̑͐̆̕͜͝Į̵̗͎̙̦̩͛̏͗̏͊̑ ̴̠̗̂E̷̩̔̌̂͆̎̕͠ ̷̩̯̳̫́̓̈͌D̴̯͖̳̪̥̣̰̣̗̔͗̈́͗̿́̄͐̋̀ ̷̘̥̜̅͐̍͑̈́̏͛́͆͝ ̸̤͖̻̮̐̉͊̄̉͘ ̷͈̬̦́̋̕͝Å̶̡̪͈̺͍̖̐̒̆͌͘͝ ̷̧͚̘͉̜͍̭̜̓͋̍̎̈̂͝C̶̡̪̟̟͕͍͉͈̤̐̽͌ ̶̡̭͇͖̗̘͍̀̓̚͜͜C̶̢̧̫̯͋̿ ̵̧̡̢̛̙͇̻͕̩͍̠̽̽̀̔̈́́͒̏E̷̹̥̖̱͉͓̩͙̓̓̓͋̍̿̐́ ̷͍̰̝̖̣̜̰̥̭̓͋̿̍͑̾̕͜S̶̛͇̮̫̙̅͒̈̓̿ ̸̧̪̹̜̠̂͋̉̍́͗͆̀͐͝S̷̬̳̩̖̘̈́͑͂͊͌̔̇̚͜ͅ'}
 CMDs[#CMDs + 1] = {NAME = '', DESC = ''}
 CMDs[#CMDs + 1] = {NAME = 'noclip', DESC = 'Go through objects'}
 CMDs[#CMDs + 1] = {NAME = 'unnoclip / clip', DESC = 'Disables noclip'}
